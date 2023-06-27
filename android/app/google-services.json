@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182713473749",
+    "project_id": "ain-photo-album",
+    "storage_bucket": "ain-photo-album.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182713473749:android:1ebb01d5d5a3ce695fe05c",
+        "android_client_info": {
+          "package_name": "com.ainbalqis.photo_album"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Anc-RXbU3pPEAzM6uyTS3XyXPaNR1ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
